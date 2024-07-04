@@ -2,7 +2,7 @@
 
 Have implemented with two ways:
 
-1. General python implementation (Could run on data which could be loaded in memory)
+1. General python implementation (Could only run on data which could be loaded in memory)
 2. Spark Implementation (Can run on large data in distributed environment as well)
 
 ## Requirements
@@ -15,7 +15,7 @@ Have implemented with two ways:
 
 1. **Install PySpark**:
    ```sh
-   pip install pyspark
+   pip3 install pyspark
    ```
 
 ## Running Instructions
